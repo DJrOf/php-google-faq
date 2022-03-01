@@ -63,14 +63,6 @@
             (Application Programming Interface). Inoltre, gli inserzionisti potrebbero ricevere informazioni relative all' esatte parole chiave che hanno determinato il clic su un annuncio. ",
     ],
 ];
-
-
-    
-    
-    echo $FAQ['answer'];
-   
-
-
 ?>
 
 <!DOCTYPE html>
